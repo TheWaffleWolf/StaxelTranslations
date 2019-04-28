@@ -9,7 +9,7 @@ Alua=
 //TODO Translate [Reference] 'Box Builder Settings'
 BoxPlacerSettings.title=
 //TODO Translate [Reference] 'Save'
-BuildToolSettings.accept=
+BuildToolSettings.accept= Gem
 //[Reference] 'Buy:'
 catalogue.buy=Køb
 //[Reference] 'Clear'

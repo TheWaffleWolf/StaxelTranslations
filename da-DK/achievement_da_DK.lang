@@ -1,29 +1,29 @@
 ﻿language.code=da-DK
 language=Dansk
 //TODO Translate [Reference] 'Reach acquaintance level with any villager'
-staxel.achievement.Acquaintance.description=
+staxel.achievement.Acquaintance.description= Opnå bekendtskabs niveau med hvilken som helst landsbybeboer
 //TODO Translate [Reference] 'Getting to know the Village'
-staxel.achievement.Acquaintance.name=
+staxel.achievement.Acquaintance.name= Lær landsbyen at kende
 //TODO Translate [Reference] 'Become a villager's best friend'
-staxel.achievement.BestFriends.description=
+staxel.achievement.BestFriends.description= Bliv en landsbybeboers bedste ven
 //TODO Translate [Reference] 'Besties'
-staxel.achievement.BestFriends.name=
+staxel.achievement.BestFriends.name= Slyngkammerater
 //TODO Translate [Reference] 'Bugs can be sold for money.'
-staxel.achievement.Catch10Bug.description=
+staxel.achievement.Catch10Bug.description= Insekter kan sælges for penge
 //TODO Translate [Reference] 'Catch 10 Bugs'
-staxel.achievement.Catch10Bug.name=
+staxel.achievement.Catch10Bug.name= Fang 10 Insekter
 //TODO Translate [Reference] 'Use a fishing rod.'
-staxel.achievement.Catch10Fish.description=
+staxel.achievement.Catch10Fish.description= Brug en fiskestang
 //TODO Translate [Reference] 'Catch 10 Fish'
-staxel.achievement.Catch10Fish.name=
+staxel.achievement.Catch10Fish.name= Fang 10 Fisk
 //TODO Translate [Reference] 'If only programming bugs were so easy to catch.'
 staxel.achievement.Catch100Bug.description=
 //TODO Translate [Reference] 'Catch 100 Bugs'
-staxel.achievement.Catch100Bug.name=
+staxel.achievement.Catch100Bug.name= Fang 100 Insekter
 //TODO Translate [Reference] 'Them's good eating!'
 staxel.achievement.Catch100Fish.description=
 //TODO Translate [Reference] 'Catch 100 Fish'
-staxel.achievement.Catch100Fish.name=
+staxel.achievement.Catch100Fish.name= Fang 100 Fisk
 //TODO Translate [Reference] 'Use a bug net.'
 staxel.achievement.CatchBug.description=
 //TODO Translate [Reference] 'Catch a Bug'
@@ -151,9 +151,9 @@ staxel.achievement.GetChicken.name=
 //TODO Translate [Reference] 'A great source of milk.'
 staxel.achievement.GetCow.description=
 //TODO Translate [Reference] 'Place a Cow Crate'
-staxel.achievement.GetCow.name=
+staxel.achievement.GetCow.name= Placer en Ko Kasse
 //TODO Translate [Reference] 'A gift from your chickens!'
-staxel.achievement.GetEgg.description=
+staxel.achievement.GetEgg.description= En gave fra dine kyllinger!
 //TODO Translate [Reference] 'Pick up an Egg'
 staxel.achievement.GetEgg.name=
 //TODO Translate [Reference] 'Don't put them all in one basket!'

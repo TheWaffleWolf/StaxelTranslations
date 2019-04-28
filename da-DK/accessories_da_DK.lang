@@ -1,11 +1,11 @@
 ﻿language.code=da-DK
 language=Dansk
 //TODO Translate [Reference] 'Black Frog Hat'
-staxel.accessories.characters.accessories.animalhats.BlackFrogHat=
+staxel.accessories.characters.accessories.animalhats.BlackFrogHat=Sort Frø Hat
 //TODO Translate [Reference] 'Frog Hat'
-staxel.accessories.characters.accessories.animalhats.FrogHat=
+staxel.accessories.characters.accessories.animalhats.FrogHat= Frø Hat
 //TODO Translate [Reference] 'Yellow Frog Hat'
-staxel.accessories.characters.accessories.animalhats.YellowFrogHat=
+staxel.accessories.characters.accessories.animalhats.YellowFrogHat= Gul Frø Hat
 staxel.accessories.characters.accessories.cathats.CatHatStars.description=
 //TODO Translate [Reference] 'Starry-Eyed Cat Hat'
 staxel.accessories.characters.accessories.cathats.CatHatStars.name=
@@ -15,7 +15,7 @@ staxel.accessories.characters.accessories.cathats.DarkPinkCatHat=
 staxel.accessories.characters.accessories.cathats.DarkPurpleCatHat=
 staxel.accessories.characters.accessories.event.BunnyTeeth.description=
 //TODO Translate [Reference] 'Bunny Teeth'
-staxel.accessories.characters.accessories.event.BunnyTeeth.name=
+staxel.accessories.characters.accessories.event.BunnyTeeth.name= Kanin tænder
 staxel.accessories.characters.accessories.event.WhiteBunnyTeeth.description=
 //TODO Translate [Reference] 'White Bunny Teeth'
 staxel.accessories.characters.accessories.event.WhiteBunnyTeeth.name=
